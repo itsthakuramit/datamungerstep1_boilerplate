@@ -201,7 +201,7 @@ The folders and files you see in this repositories, is how it is expected to be 
 
 1. Clone the base boilerplate in the folder **assignment-solution-step1** of your local machine
      
-    `git clone https://gitlab-cts.stackroute.in/stack_java_datamunging/DataMungerStep1_Boilerplate.git assignment-solution-step1`
+    `git clone https://gitlab-nht.stackroute.in/stack_java_datamunging/DataMungerStep1_Boilerplate.git assignment-solution-step1`
 
 2. Navigate to assignment-solution-step1 folder
 
@@ -215,7 +215,7 @@ The folders and files you see in this repositories, is how it is expected to be 
 
 5. Add your new repository reference as remote
 
-     `git remote add origin https://gitlab-cts.stackroute.in/{{yourusername}}/assignment-solution-step1.git`
+     `git remote add origin https://gitlab-nht.stackroute.in/{{yourusername}}/assignment-solution-step1.git`
 
      **Note: {{yourusername}} should be replaced by your username from gitlab**
 
