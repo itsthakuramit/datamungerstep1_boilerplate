@@ -99,9 +99,8 @@ public class DataMunger {
 				arr= queryString.split("order by");
 				str=arr[0];
 			}
-			else 
-				return null;
 		}
+		
 		return str.toLowerCase().trim();
 	}
 
