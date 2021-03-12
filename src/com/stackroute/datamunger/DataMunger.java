@@ -80,7 +80,7 @@ public class DataMunger {
 	
 	public String getBaseQuery(String queryString) {
 		
-		String str=null;
+		String str="";
 		String[] arr= new String[] {};
 		if(queryString.contains("where"))
 			{
@@ -100,7 +100,7 @@ public class DataMunger {
 				str=arr[0];
 			}
 			else 
-				return str;
+				return null;
 		}
 		return str.toLowerCase().trim();
 	}
